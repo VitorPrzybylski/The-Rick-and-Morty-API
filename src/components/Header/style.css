@@ -1,0 +1,11 @@
+header{
+    background-color: #90BA12;
+    color: white;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-items: center;/*alinhar Verticalmente*/
+    justify-content: center;/*alinhar horizontalmente*/
+
+
+}
